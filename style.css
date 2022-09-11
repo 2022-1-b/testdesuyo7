@@ -207,6 +207,7 @@ p{
 }
 .ante p {
 	padding-top: 6px;
+	text-decoration: line-through;
 }
 
 .reto a {
